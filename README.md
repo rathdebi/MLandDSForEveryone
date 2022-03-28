@@ -4,7 +4,7 @@ machine learning---(it is a learning tool)
 primary task--
 -----------------
 train with seen data and predict with unseen data
-a -> b mapping and its simulated function (y = mx+x)
+a -> b mapping and its simulated function (y = mx+c)
 
 output--
 ---------
