@@ -20,7 +20,7 @@ the system is a machine learning enabled system
 if 
 1- with past predict future(key points)
 2- kind of statistical hypothesis---come later
-3- learn from its experience wrt to time 
+3- learn from its experience w.r.t to time 
 4- intelligence by its own no hardcoding(key points)
 
 thumb rule-- 95% accuartely (Or error metrics)
@@ -44,7 +44,7 @@ collect data , analyze and interpret(hypothesis)
 
 output-
 -------- 
-help business to make use data driven inferences
+help business to make use of data driven inferences
 
 workflow-
 ---------
